@@ -1,1 +1,11 @@
-heme: minima
+title: Cale — Ideas Code Sound
+author: Cale
+email: you@example.com
+description: Thoughts on code, electronic music, and creative systems.
+theme: minima
+timezone: Africa/Johannesburg
+permalink: pretty
+minima:
+  social_links:
+    github: deepspeccode
+    rss: rss
